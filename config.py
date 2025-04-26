@@ -26,7 +26,7 @@ class Config(object):
     # Main channel ki ID
     CHANNEL = -1002574084986
     # Channel ka link
-    CH_URL = "https://t.me/+DY3YLoeE6yU0OTg1"
+    CH_URL = "http://t.me/txtextractor96_bot"
     # Bot ke owner ka Telegram link
     OWNER = "t.me/vighnesh9820"
     # Thumbnail image ka URL
